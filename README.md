@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/VISHAL952840/Java-Dsa/tree/master/0033-search-in-rotated-sorted-array) |
 | [0054-spiral-matrix](https://github.com/VISHAL952840/Java-Dsa/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/VISHAL952840/Java-Dsa/tree/master/0217-contains-duplicate) |
+| [0704-binary-search](https://github.com/VISHAL952840/Java-Dsa/tree/master/0704-binary-search) |
 ## Matrix
 |  |
 | ------- |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VISHAL952840/Java-Dsa/tree/master/0033-search-in-rotated-sorted-array) |
+| [0704-binary-search](https://github.com/VISHAL952840/Java-Dsa/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
