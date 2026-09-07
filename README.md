@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/VISHAL952840/Java-Dsa/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/VISHAL952840/Java-Dsa/tree/master/0191-number-of-1-bits) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VISHAL952840/Java-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 ## Dynamic Programming
 |  |
@@ -70,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/VISHAL952840/Java-Dsa/tree/master/0125-valid-palindrome) |
 | [0443-string-compression](https://github.com/VISHAL952840/Java-Dsa/tree/master/0443-string-compression) |
 | [2129-capitalize-the-title](https://github.com/VISHAL952840/Java-Dsa/tree/master/2129-capitalize-the-title) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/VISHAL952840/Java-Dsa/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
