@@ -14,12 +14,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/VISHAL952840/Java-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [0704-binary-search](https://github.com/VISHAL952840/Java-Dsa/tree/master/0704-binary-search) |
 | [1572-matrix-diagonal-sum](https://github.com/VISHAL952840/Java-Dsa/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/VISHAL952840/Java-Dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Matrix
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/VISHAL952840/Java-Dsa/tree/master/0054-spiral-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/VISHAL952840/Java-Dsa/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/VISHAL952840/Java-Dsa/tree/master/1572-matrix-diagonal-sum) |
+| [2965-find-missing-and-repeated-values](https://github.com/VISHAL952840/Java-Dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
 | ------- |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/VISHAL952840/Java-Dsa/tree/master/0217-contains-duplicate) |
+| [2965-find-missing-and-repeated-values](https://github.com/VISHAL952840/Java-Dsa/tree/master/2965-find-missing-and-repeated-values) |
 ## Sorting
 |  |
 | ------- |
@@ -75,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/VISHAL952840/Java-Dsa/tree/master/0191-number-of-1-bits) |
+## Math
+|  |
+| ------- |
+| [2965-find-missing-and-repeated-values](https://github.com/VISHAL952840/Java-Dsa/tree/master/2965-find-missing-and-repeated-values) |
 <!---LeetCode Topics End-->
